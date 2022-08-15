@@ -61,3 +61,20 @@ h3 {
 .card img {
   width: 100%;
 }
+
+button {
+  width: 7rem;
+  height: 3rem;
+  border: none;
+  border-radius: 10px;
+  color: blanchedalmond;
+  background-color: rgb(243, 65, 0);
+  margin-top: 2rem;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+button:hover {
+  background-color: rgb(211, 56, 0);
+  transition: 0.5s;
+}
